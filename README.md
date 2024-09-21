@@ -1,16 +1,19 @@
 # Mount_Network_Drive
 Smart Network Drive Mounter with Error Handling for Windows
 
-Network Reachability Check: Ensures the NAS (Network Attached Storage) is reachable before attempting to mount.
-Drive Letter Validity Check: Verifies if the specified drive letter is not already in use or invalid.
-Workstation Service Check: Confirms that the Windows Workstation service is running (required for network shares).
-Network Services Check: Ensures network services are available and functioning.
-Already Mounted Drive Check: Prevents mounting the drive if it is already mounted.
-Mount Network Drive: Automatically mounts the specified network drive using the given credentials.
-Authentication Failure Handling: Detects if the provided username or password is incorrect.
-Incorrect Share Path Handling: Alerts if the network share path is invalid or cannot be found.
-Drive Letter In-Use Detection: Detects if the chosen drive letter is already assigned to another network share.
-General Error Handling: Provides troubleshooting messages for unknown errors.
+## Features of the Enhanced Batch Script:
+
+- **Network Reachability Check**: Ensures the NAS (Network Attached Storage) is reachable before attempting to mount.
+- **Drive Letter Validity Check**: Verifies if the specified drive letter is not already in use or invalid.
+- **Workstation Service Check**: Confirms that the Windows Workstation service is running (required for network shares).
+- **Network Services Check**: Ensures network services are available and functioning.
+- **Already Mounted Drive Check**: Prevents mounting the drive if it is already mounted.
+- **Mount Network Drive**: Automatically mounts the specified network drive using the given credentials.
+- **Authentication Failure Handling**: Detects if the provided username or password is incorrect.
+- **Incorrect Share Path Handling**: Alerts if the network share path is invalid or cannot be found.
+- **Drive Letter In-Use Detection**: Detects if the chosen drive letter is already assigned to another network share.
+- **General Error Handling**: Provides troubleshooting messages for unknown errors.
+
 
 -------------------
 
