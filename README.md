@@ -52,3 +52,5 @@ Troubleshooting:
 If an error message is displayed, follow the suggestion on the screen to correct the issue, such as:
 Checking your username/password if there's an authentication error.
 Verifying the network cable if the NAS isn't reachable.
+
+Clément GHANEME - 2024/09
